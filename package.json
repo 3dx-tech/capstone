@@ -1,6 +1,7 @@
 {
   "name": "little-lemon-homepage",
   "version": "1.0.0",
+  "author": "3dx",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.4.6",
